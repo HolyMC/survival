@@ -1,2 +1,1 @@
-# gm.survival
-Gamemode : Survival
+# Repository fot the Gamemode Survival
