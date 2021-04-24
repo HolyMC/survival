@@ -1,0 +1,2 @@
+# gm.survival
+Gamemode : Survival
